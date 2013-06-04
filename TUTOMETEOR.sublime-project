@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/leo/Dev/pruebas/tutoMeteor",
+			"folder_exclude_patterns": [".meteor", ".npm"]
+		}
+	],
+	"settings": {
+		"tab_size": 2,
+		"todo": {
+			"folder_exclude_patterns": [".meteor", "vendor", "tmp"],
+			"patterns": {
+				"BUG": "BUG[\\s]?:+(?P<bug>.)$"
+			},
+			"case_sensitive": true,
+			"result_title": "TODO Results"
+		}
+	}
+}
